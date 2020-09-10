@@ -1,0 +1,4 @@
+Romanov    15000
+Korolev    22000
+Gagarin    18000
+Popov      32000

@@ -1,0 +1,3 @@
+maths 70   20   20
+physics 70   20   0
+physical_training 0   30   0
